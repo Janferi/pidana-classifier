@@ -303,7 +303,7 @@ st.markdown("""
     <div class="footer-text">
         Sistem prediksi klasifikasi perkara pidana berbasis machine learning.<br>
         Dibangun menggunakan algoritma LightGBM yang dilatih pada data putusan pengadilan Indonesia.<br><br>
-        <span class="badge">Dibuat oleh Janferi</span>
+        <span class="badge">Dibuat oleh Esekiel Janferi Sitepu</span>
         <span class="badge">Juni 2026</span>
         <span class="badge">LightGBM</span>
         <span class="badge">Python</span><br><br>
