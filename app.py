@@ -146,8 +146,8 @@ with c4:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # ── Panduan ──────────────────────────────────────────────
-with st.expander("📖  Panduan — Baca sebelum menggunakan", expanded=False):
-    tab1, tab2, tab3 = st.tabs(["⚡ Pidana Khusus", "📋 Pidana Umum", "🤖 Tentang Model"])
+with st.expander("Panduan — Baca sebelum menggunakan", expanded=False):
+    tab1, tab2, tab3 = st.tabs(["Pidana Khusus", "Pidana Umum", "Tentang Model"])
 
     with tab1:
         st.markdown("""
@@ -303,19 +303,19 @@ st.markdown("""
     <div class="footer-text">
         Sistem prediksi klasifikasi perkara pidana berbasis machine learning.<br>
         Dibangun menggunakan algoritma LightGBM yang dilatih pada data putusan pengadilan Indonesia.<br><br>
-        <span class="badge">👤 Dibuat oleh Janferi</span>
-        <span class="badge">📅 Juni 2025</span>
-        <span class="badge">🤖 LightGBM</span>
-        <span class="badge">🐍 Python</span><br><br>
+        <span class="badge">Dibuat oleh Janferi</span>
+        <span class="badge">Juni 2026</span>
+        <span class="badge">LightGBM</span>
+        <span class="badge">Python</span><br><br>
         <strong style="color:#94a3b8">Sumber Data:</strong><br>
         <a class="footer-link" href="https://github.com/ir-nlp-csui/indo-law" target="_blank">
             Indo-Law Dataset — ir-nlp-csui/indo-law
         </a><br>
         Dataset putusan pengadilan Indonesia oleh tim NLP,
         Fakultas Ilmu Komputer, Universitas Indonesia.<br><br>
-        📧 <a class="footer-link" href="mailto:email_kamu@gmail.com">email_kamu@gmail.com</a>
+         <a class="footer-link" href="mailto:esekiel241@gmail.com">esekiel241@gmail.com</a>
         &nbsp;·&nbsp;
-        🐙 <a class="footer-link" href="https://github.com/Janferi" target="_blank">github.com/Janferi</a><br><br>
+         <a class="footer-link" href="https://github.com/Janferi" target="_blank">github.com/Janferi</a><br><br>
         <em style="color:#475569">
             Hasil prediksi bersifat indikatif dan tidak menggantikan keputusan atau penilaian hukum resmi.
         </em>
